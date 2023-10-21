@@ -119,7 +119,7 @@ justify-content: center;
 align-items: center;
 gap: 28px;
 }
-#d6>button,#f6>button,#e6>button{
+#d6>button,#f6>button,#e6>button,#bt3,#bt4{
   display: flex;
 width: 61.203px;
 height: 36px;
@@ -131,7 +131,7 @@ flex-shrink: 0;
 border-radius: 980px;
 background: #0071E3;
 }
-#d6>a,#f6>a,#e6>a{
+#d6>a,#f6>a,#e6>a,#seventh124>a,#seventh134>a{
   display: flex;
 width: 101.091px;
 height: 25px;
@@ -242,4 +242,127 @@ font-weight: 700;
 line-height: 52.008px; /* 108.349% */
 letter-spacing: -0.144px;
 
+}
+#bt1{
+  display: flex;
+width: 142.234px;
+height: 36px;
+padding: 8px 15.6px 8px 16px;
+justify-content: center;
+align-items: center;
+border-radius: 980px;
+background: #FFF;
+}
+#seventh{
+display: flex;
+width: 1512px;
+padding: 116px 266px 119px 266px;
+background: #FFF;
+flex-wrap: wrap;
+}
+#seventh1{
+  width: 980px;
+height: 1991.75px;
+align-items: center;
+
+
+}
+#seventh11{
+  display: flex;
+width: 640.001px;
+height: 58px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Display;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 52.008px; /* 108.349% */
+letter-spacing: -0.144px;
+}
+#seventh12,#seventh13{
+  width: 209.5px;
+   height: 547px;
+   flex-shrink: 0;
+   align-items: center;
+   display:flex;
+   flex-direction: column;
+}
+#seventh121,#seventh131{
+  width: 190px;
+height: 257px;
+flex-shrink: 0;
+background: url(fig6.png), lightgray 50% / contain no-repeat;
+}
+#seventh122
+{
+  width: 68px;
+height: 14px;
+flex-shrink: 0;
+background: url(iphone1.png), lightgray 50% / contain no-repeat;
+align-self: center;
+}
+#seventh132{
+  width: 68px;
+  height: 14px;
+  flex-shrink: 0;
+  background: url(iphone2.png), lightgray 50% / contain no-repeat;
+  align-self: center;
+}
+#seventh123,#seventh133{
+  display: flex;
+width: 24.903px;
+height: 14px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #BF4800;
+text-align: center;
+font-family: SF Pro Text;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 133.337% */
+letter-spacing: -0.12px;
+}
+#seventh1241,#seventh1341{
+  width: 209.5px
+height: 183px
+top: 328px
+
+}
+#seventh1242,#seventh1342{
+  display: flex;
+width: 157.428px;
+height: 20px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Text;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: 25px; /* 147.059% */
+letter-spacing: -0.374px;
+}
+#seventh1243,#seventh1343{
+  display: flex;
+width: 71.478px;
+height: 16px;
+flex-direction: column;
+justify-content: center;
+flex-shrink: 0;
+color: #1D1D1F;
+text-align: center;
+font-family: SF Pro Text;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 142.859% */
+letter-spacing: -0.224px;
 }
